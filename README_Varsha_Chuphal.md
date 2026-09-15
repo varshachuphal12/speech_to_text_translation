@@ -173,8 +173,8 @@ Through this project, I gained practical experience in:
 
 Aspiring AI / Python Developer
 
-- GitHub: Add your GitHub profile link here
-- LinkedIn: Add your LinkedIn profile link here
+- GitHub: https://github.com/varshachuphal12/speech_to_text_translation
+
 
 ## ⭐ Acknowledgements
 
